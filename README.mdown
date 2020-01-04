@@ -5,3 +5,4 @@ NPBayes_fMRI
 
 ## Making and pushing changes
 GitHub Tutorial is almost done!
+Hello GitHub!
